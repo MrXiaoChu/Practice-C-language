@@ -1,1 +1,1 @@
-# Practice-C-language
+# Learn C programming
