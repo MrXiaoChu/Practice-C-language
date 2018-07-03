@@ -92,6 +92,8 @@ int main(void)
             printf("\n");
             ++index;
         }
+    printf("\n");
+    system("pause");
     return 0;
 }
 
